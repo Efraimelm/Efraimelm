@@ -26,7 +26,6 @@ Simulador do SAP GUI (tema Belize) para praticar a configuração de preços em 
 
 ## 🗄️ Outros projetos
 
-- [English Journey](https://github.com/Efraimelm/english-journey): app para aprender **inglês** em 48 semanas (React, TypeScript, Supabase) · [▶ abrir](https://english-journey.expo.app)
 - [Biblioteca](https://github.com/Efraimelm/Biblioteca): modelagem de banco de dados em **PostgreSQL** (autores, categorias e livros, com chaves estrangeiras)
 
 ## 🧰 Conhecimentos
@@ -36,4 +35,4 @@ Simulador do SAP GUI (tema Belize) para praticar a configuração de preços em 
 | **SAP SD** | Order-to-Cash, determinação de preço (esquema, tipo de condição, sequência de acesso), fluxo de documentos |
 | **ABAP** | DDIC, ABAP OO, Open SQL, ALV, CDS, tela de seleção, mensagens, ABAP Unit, abapGit |
 | **Banco de dados** | SQL, PostgreSQL, modelagem relacional |
-| **Outros** | Python, HTML/CSS/JavaScript, Git e GitHub |
+| **Outros** | Python, HTML/CSS/JavaScript, Git e GitHub · Inglês (estudando) |
