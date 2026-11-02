@@ -26,6 +26,7 @@ Simulador do SAP GUI (tema Belize) para praticar a configuração de preços em 
 
 ## 🗄️ Outros projetos
 
+- [English Journey](https://github.com/Efraimelm/english-journey): app para aprender **inglês** em 48 semanas (React, TypeScript, Supabase) · [▶ abrir](https://english-journey.expo.app)
 - [Biblioteca](https://github.com/Efraimelm/Biblioteca): modelagem de banco de dados em **PostgreSQL** (autores, categorias e livros, com chaves estrangeiras)
 
 ## 🧰 Conhecimentos
