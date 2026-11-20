@@ -10,6 +10,9 @@ Estou aprendendo SAP na prática: monto simuladores das transações de vendas (
 
 ## 🔧 Projetos SAP
 
+### ⭐ [Enterprise ERP Simulator](https://github.com/Efraimelm/enterprise-erp-simulator): ERP web de MM e SD · projeto principal
+ERP web próprio que simula processos inspirados no **SAP S/4HANA**: compras (**P2P**), vendas (**O2C**), estoque por documento de material com reserva e ATP, trilha de documentos de ponta a ponta, relatórios de BI e integração com **n8n** e IA. Feito em React, Node.js e MariaDB, com **195 testes automatizados**. Não é software SAP.
+
 ### [ZACADEMIA](https://github.com/Efraimelm/academia): sistema de academia em ABAP
 Pacote Z completo, no formato abapGit, para importar em um sistema SAP.
 - **Dicionário (SE11):** tabelas transparentes, domínios com valores fixos, elementos de dados
