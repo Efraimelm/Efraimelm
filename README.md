@@ -24,6 +24,16 @@ Tutor interativo do processo **Order-to-Cash**: ordem de venda (**VA01**), remes
 Simulador do SAP GUI (tema Belize) para praticar a configuração de preços em SD:
 **V/08** esquemas de cálculo · **V/06** tipos de condição · **V/07** sequências de acesso.
 
+## 🇺🇸 Inglês para trabalhar com SAP
+
+Dois apps que eu uso todo dia, ligados pela mesma conta (Supabase), cada um mostrando onde estou no outro:
+
+### [English Journey](https://github.com/Efraimelm/english-journey): 48 semanas de frases · [▶ abrir](https://english-journey.expo.app/)
+PWA em **React + TypeScript**: 20 frases e 1 texto por semana, exercícios (escuta, escrita, ordenar), **revisão espaçada**, teste semanal e sincronização que junta o progresso do celular e do computador.
+
+### [Inglês Todo Dia](https://github.com/Efraimelm/ingles-todo-dia): trilha de 360 dias · [▶ abrir](https://efraimelm.github.io/ingles-todo-dia/)
+PWA em **JavaScript puro**: sessão diária pronta com texto, áudio, shadowing e fala, funcionando offline.
+
 ## 🗄️ Outros projetos
 
 - [Biblioteca](https://github.com/Efraimelm/Biblioteca): modelagem de banco de dados em **PostgreSQL** (autores, categorias e livros, com chaves estrangeiras)
@@ -35,4 +45,4 @@ Simulador do SAP GUI (tema Belize) para praticar a configuração de preços em 
 | **SAP SD** | Order-to-Cash, determinação de preço (esquema, tipo de condição, sequência de acesso), fluxo de documentos |
 | **ABAP** | DDIC, ABAP OO, Open SQL, ALV, CDS, tela de seleção, mensagens, ABAP Unit, abapGit |
 | **Banco de dados** | SQL, PostgreSQL, modelagem relacional |
-| **Outros** | Python, HTML/CSS/JavaScript, Git e GitHub |
+| **Outros** | Python, HTML/CSS/JavaScript, React + TypeScript (PWA), Supabase, Git e GitHub |
